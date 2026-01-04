@@ -1,4 +1,5 @@
 /videos 
 /videos_a2c_cartpole 
-/a2c_cartpole.pth
+/videos-dqn
+*.pth
 /a2c.ipynb 
