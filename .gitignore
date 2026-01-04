@@ -3,3 +3,4 @@
 /videos-dqn
 *.pth
 /a2c.ipynb 
+.gitignore
